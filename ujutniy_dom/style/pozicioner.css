@@ -1,0 +1,64 @@
+.item-1{
+    background:url(../img/full_catalog/pozicioner/1.jpg) center;
+    background-size: cover;
+}
+.item-2{
+    background:url(../img/full_catalog/pozicioner/2.jpg) center;
+    background-size: cover;
+}
+.item-3{
+    background:url(../img/full_catalog/pozicioner/3.jpg) center;
+    background-size: cover;
+}
+.item-4{
+    background:url(../img/full_catalog/pozicioner/4.jpg) center;
+    background-size: cover;
+}
+.item-5{
+    background:url(../img/full_catalog/pozicioner/5.jpg) center;
+    background-size: cover;
+}
+.item-6{
+    background:url(../img/full_catalog/pozicioner/6.jpg) center;
+    background-size: cover;
+}
+.item-7{
+    background:url(../img/full_catalog/pozicioner/7.jpg) center;
+    background-size: cover;
+}
+.item-8{
+    background:url(../img/full_catalog/pozicioner/8.jpg) center;
+    background-size: cover;
+}
+.item-9{
+    background:url(../img/full_catalog/pozicioner/9.jpg) center;
+    background-size: cover;
+}
+.item-10{
+    background:url(../img/full_catalog/pozicioner/10.jpg) center;
+    background-size: cover;
+}
+.item-11{
+    background:url(../img/full_catalog/pozicioner/11.jpg) center;
+    background-size: cover;
+}
+.item-12{
+    background:url(../img/full_catalog/pozicioner/12.jpg) center;
+    background-size: cover;
+}
+.item-13{
+    background:url(../img/full_catalog/pozicioner/13.jpg) center;
+    background-size: cover;
+}
+.item-14{
+    background:url(../img/full_catalog/pozicioner/14.jpg) center;
+    background-size: cover;
+}
+.item-15{
+    background:url(../img/full_catalog/pozicioner/15.jpg) center;
+    background-size: cover;
+}
+
+.store__item{
+    box-shadow: 0px 3px 6px #00000057; 
+}

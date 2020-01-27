@@ -1,0 +1,45 @@
+.item-1{
+    background:url(../img/full_catalog/handmade/1.jpg) center;
+    background-size: cover;
+}
+.item-2{
+    background:url(../img/full_catalog/handmade/2.jpg) center;
+    background-size: cover;
+}
+.item-3{
+    background:url(../img/full_catalog/handmade/3.jpg) center;
+    background-size: cover;
+}
+.item-4{
+    background:url(../img/full_catalog/handmade/4.jpg) center;
+    background-size: cover;
+}
+.item-5{
+    background:url(../img/full_catalog/handmade/5.jpg) center;
+    background-size: cover;
+}
+.item-6{
+    background:url(../img/full_catalog/handmade/6.jpg) center;
+    background-size: cover;
+}
+.item-7{
+    background:url(../img/full_catalog/handmade/7.jpg) center;
+    background-size: cover;
+}
+.item-8{
+    background:url(../img/full_catalog/handmade/8.jpg) center;
+    background-size: cover;
+}
+.item-9{
+    background:url(../img/full_catalog/handmade/9.jpg) center;
+    background-size: cover;
+}
+.item-10{
+    background:url(../img/full_catalog/handmade/10.jpg) center;
+    background-size: cover;
+}
+
+
+.store__item{
+    box-shadow: 0px 3px 6px #00000057; 
+}
